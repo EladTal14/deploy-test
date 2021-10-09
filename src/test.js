@@ -8,3 +8,4 @@ export const x = () => {
 export const newFunc = () => {
     return new Date()
 }
+export const num=2;
