@@ -11,5 +11,5 @@ export const newFunc = () => {
 }
 export const num = 2;
 export const number = 3;
-export const PRTest = 3;
+export const PRTest = [1, 2, 3, 4];
 
