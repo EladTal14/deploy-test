@@ -12,6 +12,3 @@ export const newFunc = () => {
 export const num = 2;
 export const number = 3;
 
-export const multiplyBy10 = (num) => {
-    return num * 10
-}

@@ -1,14 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import boat from './assets/images/boat-in-images.jpg'
-import boatInIcons from './assets/icons/boat-in-icons.jpg'
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <img src={boat} className="App-logo" alt="logo" />
-        <img src={boatInIcons} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -21,10 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <div></div>
-      <button></button>
     </div>
-
   );
 }
 
